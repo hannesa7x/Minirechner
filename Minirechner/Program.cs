@@ -8,5 +8,10 @@ namespace Minirechner
         {
             Console.WriteLine("Hello World!");
         }
+
+        public static int Addiere(int Zahl1, int Zahl2)
+        {
+            return Zahl1 + Zahl2;
+        }
     }
 }
