@@ -13,5 +13,10 @@ namespace Minirechner
         {
             return Zahl1 + Zahl2;
         }
+
+        public static int Subtrahiere(int Zahl1, int Zahl2)
+        {
+            return Zahl1 - Zahl2;
+        }
     }
 }
